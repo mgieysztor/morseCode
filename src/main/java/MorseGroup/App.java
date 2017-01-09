@@ -1,7 +1,5 @@
 package MorseGroup;
 
-import sun.awt.AWTCharset;
-
 import java.util.Scanner;
 
 /**
@@ -16,7 +14,7 @@ public class App
         Scanner input = new Scanner(System.in);
         new Code(input);
         new Decode();
-        new File;
+        new ToFile;
     }
 
 }
