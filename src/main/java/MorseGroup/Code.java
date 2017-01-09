@@ -8,5 +8,6 @@ import java.util.Scanner;
 public class Code {
     public Code(Scanner input) {
         String tekst = input.nextLine();
+
     }
 }

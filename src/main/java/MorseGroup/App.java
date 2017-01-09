@@ -15,7 +15,7 @@ public class App
         System.out.println( "Morse code - input text:" );
         Scanner input = new Scanner(System.in);
         new Code(input);
-        new Decode;
+        new Decode();
         new File;
     }
 
